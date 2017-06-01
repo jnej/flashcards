@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  color: #9f9f9f;
+}
+
+.heading {
+  background-color: #9fcbbc;
+  color: white;
+  padding: 1%;
+}
+
+.row-1 {
+  margin-top: 50px;
+  margin-bottom: 25px;
+}
+
+.panel-default > .panel-heading {
+  background-color: #9fcbbc;
+  color: white;
+  font-size: 24px;
+}
