@@ -16,6 +16,14 @@ body {
 
 .panel-default > .panel-heading {
   background-color: #9fcbbc;
+}
+
+.panel-title, .panel-boolean, .panel-string, .panel-numeric, .panel-null, .panel-undefined {
   color: white;
-  font-size: 24px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.panel-body, .panel-body-1, .panel-body-2, .panel-body-3, .panel-body-4, .panel-body-5 {
+  display: none;
 }
